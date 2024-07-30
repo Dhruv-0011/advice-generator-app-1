@@ -4,7 +4,7 @@
 <h1 align="center">Advice generator app</h1>
 
 <div align="center">
-  <h3>
+<!--   <h3>
     <a href="https://catherineisonline.github.io/advice-generator-app-frontendmentor/" color="white">
       Live
     </a>
@@ -16,7 +16,7 @@
     <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">
       Challenge
     </a>
-  </h3>
+  </h3> -->
 </div>
 <div align="center">
    Solution for a challenge from  <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
